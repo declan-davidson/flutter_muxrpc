@@ -12,9 +12,11 @@ dependencies:
     sdk: flutter
   libsodium: ^0.2.0
   dart_secret_handshake:
-    path: C:\Users\Declan\Documents\University\Project\Secret handshake working\dart-secret-handshake
+    git: https://github.com/declan-davidson/dart_secret_handshake
+    # path: C:\Users\Declan\Documents\University\Project\Secret handshake working\dart-secret-handshake
   scuttlebutt_feed:
-    path: C:\Users\Declan\Documents\University\Project\Flutter feed\scuttlebutt_feed
+    git: https://github.com/declan-davidson/scuttlebutt_feed.git
+    # path: C:\Users\Declan\Documents\University\Project\Flutter feed\scuttlebutt_feed
 
 dev_dependencies:
   flutter_test:
