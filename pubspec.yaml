@@ -15,7 +15,9 @@ dependencies:
     git: https://github.com/declan-davidson/dart_secret_handshake
     # path: C:\Users\Declan\Documents\University\Project\Secret handshake working\dart-secret-handshake
   scuttlebutt_feed:
-    git: https://github.com/declan-davidson/scuttlebutt_feed.git
+    git:
+      url: https://github.com/declan-davidson/scuttlebutt_feed.git
+      ref: evaluation
     # path: C:\Users\Declan\Documents\University\Project\Flutter feed\scuttlebutt_feed
 
 dev_dependencies:
